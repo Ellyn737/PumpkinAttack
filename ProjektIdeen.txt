@@ -1,0 +1,74 @@
+View:
+	//Am unteren Rand sieht man den Kürbis, diesen kann man nach inks oder rechts bewegen
+	//oben fliegen die Fledermäuse
+	//Die Süssigkeiten fliegen gerade nach oben
+	
+	//Panel + Kürbis
+Panel
+	
+	
+	//Background --> Himmel/ Boden --> Rectangle[]
+	
+Controller:
+	//updateView
+	//Kollisionsabfrage
+	//Erhöhung des Scores
+	//hat man ünf abgeknallt --> neue Süssigkeiten
+
+Kürbis:
+	//bewegen()
+	//schiessen()
+	//Rectangle[]
+	
+
+Fledermaus:
+	//Rectangle[]
+	//move()
+	//die()
+
+	
+FlederMausListe[]
+
+
+Item:
+	//Rectangle[]
+
+Settings
+	//Bildschirmgrösse
+	
+ScoreListView
+
+ScoreList
+
+Sweets
+	//move()
+	
+GUI
+
+Attempt("Versuch")
+
+NetzwerK:
+
+Bösewicht:
+	//Sieht die Szene
+	//wirft Bomben ab
+	//nur eine Bombe zur Zeit kann gesetzt werden
+	
+	//Minuspunkte, wenn Kürbis verfehlt wird
+	//Bei 3 Strikes --> Kürbis.die()
+	//BösewichtScoreList ausgegeben (wieviele Bomben wurden gebraucht um Kürbis aus dem Weg zu schaffen)
+
+Thread zum Synchronisieren mit Netzwerk
+	//um die Szene rüberzuschicken
+	//um die Bomben zu setzen
+	//
+
+
+Main
+
+
+
+Hausaufgaben:
+
+Pumpkins + Sweets --> Tara
+Panel + Bats + View --> Ellyn
