@@ -7,7 +7,7 @@ package src;
  * Das ist der Held
  * Er schiesst mit Suessigkeiten auf Fledermaeuse
  * Dafuer bewegt er sich hin und her (Pfeiltasten)
- * 
+ * Hallo Ellyn!!!
  */
 
 public class Pumpkin {
